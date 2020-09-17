@@ -1,0 +1,22 @@
+{
+  "name": "powerdevis",
+  "version": "1.0.0",
+  "description": "App for little company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManOfSkeel/PowerDevis.git"
+  },
+  "author": "Adrien B.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManOfSkeel/PowerDevis/issues"
+  },
+  "homepage": "https://github.com/ManOfSkeel/PowerDevis#readme",
+  "devDependencies": {
+    "electron": "^10.1.2"
+  }
+}
